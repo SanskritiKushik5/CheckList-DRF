@@ -1,1 +1,1 @@
-# CheckList-DRF
+# CheckList - Django Rest Framework
